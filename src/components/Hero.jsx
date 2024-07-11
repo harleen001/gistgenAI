@@ -21,7 +21,7 @@ const Hero = () => {
 
       <h1 className='head_text'>
         Digest Articles with <br className='max-md:hidden' />
-        <span className='orange_gradient '>gistgen</span>
+        <span className='orange_gradient '>GistGen</span>
         <span className='orange_gradient2 '>AI</span>
       </h1>
       <h2 className='desc'>
